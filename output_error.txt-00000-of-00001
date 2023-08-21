@@ -1,0 +1,6 @@
+({'id': 'account3', 'amount': 200.0, 'currency': 'JPY'}, 'UNKNOWN CURRENCY')
+({'id': 'account6', 'amount': 90.0, 'currency': 'AUD'}, 'UNKNOWN CURRENCY')
+({'id': 'account8', 'amount': 60.0, 'currency': 'CNY'}, 'UNKNOWN CURRENCY')
+({'id': 'account9', 'amount': 110.0, 'currency': 'INR'}, 'UNKNOWN CURRENCY')
+({'id': 'account10', 'amount': 70.0, 'currency': 'ZAR'}, 'UNKNOWN CURRENCY')
+({'id': 'account11', 'amount': 70.0, 'currency': 'RUB'}, 'UNKNOWN CURRENCY')
