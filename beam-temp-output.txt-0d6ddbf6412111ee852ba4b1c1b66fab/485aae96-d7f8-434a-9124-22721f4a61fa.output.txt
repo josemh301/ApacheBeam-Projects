@@ -1,0 +1,11 @@
+{'id': 'account1', 'name': 'John', 'amount': 50.0, 'currency': 'EUR', 'city': 'Paris'}
+{'id': 'account2', 'name': 'Jane', 'amount': 150.0, 'currency': 'GBP', 'city': 'London'}
+{'id': 'account3', 'name': 'Bob', 'amount': 200.0, 'currency': 'JPY', 'city': 'Tokyo'}
+{'id': 'account4', 'name': 'Alice', 'amount': 30.0, 'currency': 'EUR', 'city': 'Berlin'}
+{'id': 'account5', 'name': 'Charlie', 'amount': 120.0, 'currency': 'EUR', 'city': 'Madrid'}
+{'id': 'account6', 'name': 'Eve', 'amount': 90.0, 'currency': 'AUD', 'city': 'Sydney'}
+{'id': 'account7', 'name': 'David', 'amount': 180.0, 'currency': 'EUR', 'city': 'Rome'}
+{'id': 'account8', 'name': 'Fay', 'amount': 60.0, 'currency': 'CNY', 'city': 'Beijing'}
+{'id': 'account9', 'name': 'Gary', 'amount': 110.0, 'currency': 'INR', 'city': 'Mumbai'}
+{'id': 'account10', 'name': 'Holly', 'amount': 70.0, 'currency': 'ZAR', 'city': 'Cape Town'}
+{'id': 'account11', 'name': 'Harry', 'amount': 70.0, 'currency': 'RUB', 'city': 'Moscow'}
