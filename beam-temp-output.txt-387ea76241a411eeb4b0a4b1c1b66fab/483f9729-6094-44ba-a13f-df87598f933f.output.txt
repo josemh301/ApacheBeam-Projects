@@ -1,0 +1,3 @@
+('account2', 'Jane', 195.0, 'USD', 'London')
+('account5', 'Charlie', 134.4, 'USD', 'Madrid')
+('account7', 'David', 201.60000000000002, 'USD', 'Rome')
